@@ -1,7 +1,7 @@
 
 
 
-<p align="center">I solve great challenges using tech. <br><br> From backend development using Python to frontend development using JavaScript, Gosto de  <strong> Coisas novas stuffs</strong> and use them to create high quality solutions.</p>
+<p align="center">I solve great challenges using tech. <br><br>  Desenvolvedor backand ultilizando Python e frontend JavaScript, Gosto de <strong> esdudar coisas novas stuffs</strong> and use them to create high quality solutions.</p>
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=DiegoRealx&theme=radical&mode=weekly" />
