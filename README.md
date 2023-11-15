@@ -1,17 +1,4 @@
-
-
-
 <p align="center">I solve great challenges using tech. <br><br>  Desenvolvedor backand ultilizando Python e frontend JavaScript, Gosto de <strong> esdudar coisas novas stuffs</strong> e usá-las para criar soluções de alta qualidade.</p>
-
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=DiegoRealx&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-DiegoRealx.vercel.app/api/top-langs/?username=DiegoRealx&show_icons=true&theme=radical&layout=compact" />
- </div>
- 
- &nbsp;
- &nbsp;
-
-
 
 ## My Skills
 
