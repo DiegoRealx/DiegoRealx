@@ -1,4 +1,4 @@
-<p align="center">I solve great challenges using tech. <br><br>  Desenvolvedor backand ultilizando Python e frontend JavaScript, Gosto de <strong> esdudar coisas novas stuffs</strong> e usá-las para criar soluções de alta qualidade.</p>
+<p align="center">I solve great challenges using tech. <br><br>  Desenvolvedor backand ultilizando Python e frontend ultilizando JavaScript, Gosto de <strong> esdudar coisas novas stuffs</strong> e usá-las para criar soluções de alta qualidade.</p>
 
 ## My Skills
 
